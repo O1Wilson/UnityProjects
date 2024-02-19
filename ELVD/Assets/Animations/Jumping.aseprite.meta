@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: d76f75043ff23b942b0af250a1f79371
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Jumping_Frame_0
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 38
+      height: 34
+    spriteID: 164950302a100e5448d90580b8f4124d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Jumping_Frame_1
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.2121212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 38
+      height: 33
+    spriteID: b20820c1a54497640b6f272f6b1e31dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: Jumping_Frame_2
+    originalName: 
+    pivot: {x: 0.97222227, y: -1.2058823}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 211
+      width: 36
+      height: 34
+    spriteID: 5973c83752136914d8b031ea456de53b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 211}
+  - name: Jumping_Frame_3
+    originalName: 
+    pivot: {x: 1.0000001, y: -1.2058823}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 168
+      width: 35
+      height: 34
+    spriteID: 491e7c96402ad7c458807dbc4cc9a7a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 168}
+  - name: Jumping_Frame_4
+    originalName: 
+    pivot: {x: 0.97222227, y: -1.2058823}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 36
+      height: 34
+    spriteID: 165dce793f20b94468f16c0d30033665
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: Jumping_Frame_5
+    originalName: 
+    pivot: {x: 0.97222227, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 46
+      width: 36
+      height: 34
+    spriteID: 3ef854dbfa7f760409c24a64d50b163c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 46}
+  - name: Jumping_Frame_6
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.2121212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 129
+      width: 38
+      height: 33
+    spriteID: 0e386c4606b78f14ab6ea576fcbb2a73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 129}
+  - name: Jumping_Frame_7
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 88
+      width: 38
+      height: 32
+    spriteID: 61aa77ccc31dfe441b5b4efe1b2feeb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 88}
+  - name: Jumping_Frame_8
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 128
+      width: 38
+      height: 32
+    spriteID: f107a21de03d9b24b9506d1d52befc0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 128}
+  - name: Jumping_Frame_9
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.2121212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 170
+      width: 38
+      height: 33
+    spriteID: cdbbebd00e0fcf44aad33ff0d52a0a6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 170}
+  - name: Jumping_Frame_10
+    originalName: 
+    pivot: {x: 0.92105275, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 38
+      height: 34
+    spriteID: b89fb45736f14f24fb3e36ccefbe332c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 46}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1682780074
+    name: Jumping
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Jumping_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 34
+      spriteId: 164950302a100e5448d90580b8f4124d
+    - name: Jumping_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 33
+      spriteId: b20820c1a54497640b6f272f6b1e31dd
+    - name: Jumping_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 25
+        y: 41
+        width: 36
+        height: 34
+      spriteId: 5973c83752136914d8b031ea456de53b
+    - name: Jumping_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 25
+        y: 41
+        width: 35
+        height: 34
+      spriteId: 491e7c96402ad7c458807dbc4cc9a7a9
+    - name: Jumping_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 25
+        y: 41
+        width: 36
+        height: 34
+      spriteId: 165dce793f20b94468f16c0d30033665
+    - name: Jumping_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 25
+        y: 40
+        width: 36
+        height: 34
+      spriteId: 3ef854dbfa7f760409c24a64d50b163c
+    - name: Jumping_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 33
+      spriteId: 0e386c4606b78f14ab6ea576fcbb2a73
+    - name: Jumping_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 32
+      spriteId: 61aa77ccc31dfe441b5b4efe1b2feeb6
+    - name: Jumping_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 32
+      spriteId: f107a21de03d9b24b9506d1d52befc0d
+    - name: Jumping_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 33
+      spriteId: cdbbebd00e0fcf44aad33ff0d52a0a6c
+    - name: Jumping_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 25
+        y: 40
+        width: 38
+        height: 34
+      spriteId: b89fb45736f14f24fb3e36ccefbe332c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 120, y: 120}
