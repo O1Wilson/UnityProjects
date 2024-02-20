@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour
     private bool isDashing;
     private bool canDash;
 
+    [Header("Attacking")]
     bool attack = false;
     float timeBetweenAttack, timeSinceAttack;
 
